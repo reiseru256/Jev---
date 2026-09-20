@@ -1,0 +1,6 @@
+.env
+*.log
+prepare_only_ログ.txt
+03_取得ログ/*.csv
+__pycache__/
+.pytest_cache/

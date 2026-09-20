@@ -1,0 +1,5 @@
+.env
+state/
+ログ.txt
+__pycache__/
+.pytest_cache/
